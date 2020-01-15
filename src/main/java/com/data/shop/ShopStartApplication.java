@@ -11,5 +11,6 @@ public class ShopStartApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ShopStartApplication.class,args);
+        System.out.println("sada");
     }
 }
